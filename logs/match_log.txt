@@ -1,0 +1,1094 @@
+
+╔══════════════════════════════════════════════════════════╗
+║              INNINGS 1 BEGINS                           ║
+╚══════════════════════════════════════════════════════════╝
+
+=== INNINGS 1 BEGINS ===
+  Striker     : Rohit Sharma
+  Non-Striker : Virat Kohli
+  Bowler (RR) : Jasprit Bumrah
+
+[CREASE] Rohit Sharma entered crease (sem acquired)
+  Over  0.1 | Jasprit Bumrah       → Rohit Sharma         |   2 | 2/0
+[CREASE] Virat Kohli entered crease (sem acquired)
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+[MAIN] 27 threads spawned (6 bowlers + 11 batsmen + 10 fielders)
+
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+  Over  0.2 | Jasprit Bumrah       → Rohit Sharma         | SIX | 8/0
+  Over  0.3 | Jasprit Bumrah       → Virat Kohli          |   1 | 9/0
+  Over  0.4 | Jasprit Bumrah       → Virat Kohli          | DOT | 9/0
+  Over  0.5 | Jasprit Bumrah       → Rohit Sharma         |   1 | 10/0
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 1 overs | 10 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 0 overs bowled so far
+  Over  1.0 | Mohammed Siraj       → Virat Kohli          | DOT | 10/0
+  Over  1.1 | Mohammed Siraj       → Rohit Sharma         |   1 | 11/0
+  Over  1.2 | Mohammed Siraj       → Rohit Sharma         | FOUR | 15/0
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+  Over  1.3 | Mohammed Siraj       → Rohit Sharma         | FOUR | 19/0
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+  Over  1.4 | Mohammed Siraj       → Rohit Sharma         | FOUR | 23/0
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+  Over  1.4 | Mohammed Siraj       → Virat Kohli          |  WD | 24/0
+  Over  1.5 | Mohammed Siraj       → Rohit Sharma         |   1 | 25/0
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 1 overs | 19 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Hardik Pandya | 0 overs bowled so far
+  Over  2.0 | Hardik Pandya        → Virat Kohli          | FOUR | 29/0
+  Over  2.1 | Hardik Pandya        → Virat Kohli          |   2 | 31/0
+  Over  2.2 | Hardik Pandya        → Virat Kohli          | DOT | 31/0
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F4 Rohit (Cover)   ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+  *** WICKET! Virat Kohli OUT (bowled/caught off Hardik Pandya) ***
+[SJF] Promoted Arshdeep Singh (exp 2 balls) ahead of batting order
+  [SJF] Arshdeep Singh walks in (exp 2 balls)
+  Over  2.3 | Hardik Pandya        → Arshdeep Singh       | OUT | 31/1
+[CREASE] Arshdeep Singh entered crease (sem acquired)
+[CREASE] Suryakumar Yadav entered crease (sem acquired)
+  Over  2.4 | Hardik Pandya        → Rohit Sharma         |   1 | 32/1
+  Over  2.4 | Hardik Pandya        → Arshdeep Singh       |  WD | 33/1
+  Over  2.5 | Hardik Pandya        → Arshdeep Singh       | DOT | 33/1
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+
+[CONTEXT SWITCH] Saving  : Hardik Pandya | 1 overs | 8 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Axar Patel | 0 overs bowled so far
+  Over  3.0 | Axar Patel           → Rohit Sharma         | FOUR | 37/1
+  Over  3.1 | Axar Patel           → Rohit Sharma         |   2 | 39/1
+  Over  3.2 | Axar Patel           → Rohit Sharma         |   2 | 41/1
+  Over  3.3 | Axar Patel           → Arshdeep Singh       |   3 | 44/1
+  Over  3.4 | Axar Patel           → Arshdeep Singh       |   2 | 46/1
+  Over  3.4 | Axar Patel           → Rohit Sharma         |  WD | 47/1
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+  Over  3.5 | Axar Patel           → Rohit Sharma         | FOUR | 51/1
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+
+[CONTEXT SWITCH] Saving  : Axar Patel | 1 overs | 20 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Kuldeep Yadav | 0 overs bowled so far
+  Over  4.0 | Kuldeep Yadav        → Arshdeep Singh       | SIX | 57/1
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+  Over  4.1 | Kuldeep Yadav        → Arshdeep Singh       | SIX | 63/1
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+  Over  4.2 | Kuldeep Yadav        → Rohit Sharma         |   1 | 64/1
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+  Over  4.3 | Kuldeep Yadav        → Rohit Sharma         | SIX | 70/1
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+  Over  4.4 | Kuldeep Yadav        → Rohit Sharma         | SIX | 76/1
+  Over  4.5 | Kuldeep Yadav        → Arshdeep Singh       |   1 | 77/1
+
+[CONTEXT SWITCH] Saving  : Kuldeep Yadav | 1 overs | 20 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 0 overs bowled so far
+  Over  5.0 | Arshdeep Singh       → Rohit Sharma         | DOT | 77/1
+  Over  5.1 | Arshdeep Singh       → Rohit Sharma         | DOT | 77/1
+  Over  5.2 | Arshdeep Singh       → Rohit Sharma         | DOT | 77/1
+  Over  5.3 | Arshdeep Singh       → Rohit Sharma         |   2 | 79/1
+  Over  5.4 | Arshdeep Singh       → Rohit Sharma         |   2 | 81/1
+  Over  5.5 | Arshdeep Singh       → Rohit Sharma         |   2 | 83/1
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 1 overs | 8 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Jasprit Bumrah | 1 overs bowled so far
+  Over  6.0 | Jasprit Bumrah       → Arshdeep Singh       |   2 | 85/1
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+  Over  6.1 | Jasprit Bumrah       → Arshdeep Singh       | FOUR | 89/1
+  Over  6.2 | Jasprit Bumrah       → Rohit Sharma         |   1 | 90/1
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+  Over  6.3 | Jasprit Bumrah       → Rohit Sharma         | SIX | 96/1
+  Over  6.4 | Jasprit Bumrah       → Rohit Sharma         | DOT | 96/1
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+  Over  6.5 | Jasprit Bumrah       → Rohit Sharma         | SIX | 102/1
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 2 overs | 29 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 1 overs bowled so far
+  Over  7.0 | Mohammed Siraj       → Arshdeep Singh       |   2 | 104/1
+  Over  7.1 | Mohammed Siraj       → Arshdeep Singh       | DOT | 104/1
+  Over  7.2 | Mohammed Siraj       → Rohit Sharma         |   1 | 105/1
+  Over  7.3 | Mohammed Siraj       → Rohit Sharma         | DOT | 105/1
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+  Over  7.4 | Mohammed Siraj       → Rohit Sharma         | FOUR | 109/1
+  Over  7.5 | Mohammed Siraj       → Arshdeep Singh       |   1 | 110/1
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 2 overs | 25 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Hardik Pandya | 1 overs bowled so far
+  Over  8.0 | Hardik Pandya        → Rohit Sharma         | DOT | 110/1
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+  *** WICKET! Rohit Sharma OUT (bowled/caught off Hardik Pandya) ***
+[SJF] Promoted Jasprit Bumrah (exp 3 balls) ahead of batting order
+  [SJF] Jasprit Bumrah walks in (exp 3 balls)
+  Over  8.1 | Hardik Pandya        → Jasprit Bumrah       | OUT | 110/2
+[CREASE] Hardik Pandya entered crease (sem acquired)
+[CREASE] Rinku Singh entered crease (sem acquired)
+  Over  8.1 | Hardik Pandya        → Arshdeep Singh       |  NB | 111/2
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+  Over  8.2 | Hardik Pandya        → Arshdeep Singh       | FOUR | 115/2
+  Over  8.3 | Hardik Pandya        → Arshdeep Singh       | DOT | 115/2
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F4 Rohit (Cover)   ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F4 Rohit (Cover)   ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F4 Rohit (Cover)   ] Takes the catch / effects stumping!
+  *** WICKET! Arshdeep Singh OUT (bowled/caught off Hardik Pandya) ***
+[SJF] Promoted Kuldeep Yadav (exp 5 balls) ahead of batting order
+  [SJF] Kuldeep Yadav walks in (exp 5 balls)
+  Over  8.4 | Hardik Pandya        → Kuldeep Yadav        | OUT | 115/3
+[CREASE] Dinesh Karthik entered crease (sem acquired)
+[CREASE] Axar Patel entered crease (sem acquired)
+  Over  8.5 | Hardik Pandya        → Kuldeep Yadav        | DOT | 115/3
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+
+[CONTEXT SWITCH] Saving  : Hardik Pandya | 2 overs | 19 runs | 3 wkts
+[CONTEXT SWITCH] Loading : Axar Patel | 1 overs bowled so far
+  Over  9.0 | Axar Patel           → Jasprit Bumrah       | SIX | 121/3
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+  Over  9.1 | Axar Patel           → Jasprit Bumrah       | SIX | 127/3
+  Over  9.2 | Axar Patel           → Kuldeep Yadav        |   1 | 128/3
+  Over  9.3 | Axar Patel           → Kuldeep Yadav        | DOT | 128/3
+  Over  9.4 | Axar Patel           → Kuldeep Yadav        | DOT | 128/3
+  Over  9.5 | Axar Patel           → Kuldeep Yadav        | DOT | 128/3
+
+[CONTEXT SWITCH] Saving  : Axar Patel | 2 overs | 28 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Kuldeep Yadav | 1 overs bowled so far
+  Over 10.0 | Kuldeep Yadav        → Kuldeep Yadav        |   1 | 129/3
+  Over 10.1 | Kuldeep Yadav        → Jasprit Bumrah       |   1 | 130/3
+  Over 10.2 | Kuldeep Yadav        → Kuldeep Yadav        |   1 | 131/3
+  Over 10.3 | Kuldeep Yadav        → Jasprit Bumrah       |   1 | 132/3
+  Over 10.4 | Kuldeep Yadav        → Kuldeep Yadav        |   1 | 133/3
+  Over 10.5 | Kuldeep Yadav        → Jasprit Bumrah       |   1 | 134/3
+  Over 10.5 | Kuldeep Yadav        → Kuldeep Yadav        |  WD | 135/3
+
+[CONTEXT SWITCH] Saving  : Kuldeep Yadav | 2 overs | 26 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 1 overs bowled so far
+  Over 11.0 | Arshdeep Singh       → Jasprit Bumrah       | DOT | 135/3
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+  Over 11.1 | Arshdeep Singh       → Jasprit Bumrah       | FOUR | 139/3
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+  Over 11.2 | Arshdeep Singh       → Jasprit Bumrah       | SIX | 145/3
+  Over 11.2 | Arshdeep Singh       → Kuldeep Yadav        |  WD | 146/3
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+  Over 11.3 | Arshdeep Singh       → Kuldeep Yadav        | SIX | 152/3
+  Over 11.4 | Arshdeep Singh       → Kuldeep Yadav        | DOT | 152/3
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+  *** WICKET! Kuldeep Yadav OUT (bowled/caught off Arshdeep Singh) ***
+[SJF] Promoted Axar Patel (exp 7 balls) ahead of batting order
+  [SJF] Axar Patel walks in (exp 7 balls)
+  Over 11.5 | Arshdeep Singh       → Axar Patel           | OUT | 152/4
+[CREASE] Hardik Pandya entered crease (sem acquired)
+[CREASE] Suryakumar Yadav entered crease (sem acquired)
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 2 overs | 27 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Jasprit Bumrah | 2 overs bowled so far
+  Over 12.0 | Jasprit Bumrah       → Jasprit Bumrah       |   2 | 154/4
+  Over 12.1 | Jasprit Bumrah       → Jasprit Bumrah       |   2 | 156/4
+    [F3 Surya (Point)   ] Takes the catch / effects stumping!
+    [F8 Siraj (Fine-leg)] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F4 Rohit (Cover)   ] Takes the catch / effects stumping!
+    [F2 Kohli (Gully)   ] Takes the catch / effects stumping!
+    [F1 Gill (Slip)     ] Takes the catch / effects stumping!
+    [F0 DK (WK)         ] Takes the catch / effects stumping!
+    [F9 Bumrah (3rd-man)] Takes the catch / effects stumping!
+    [F6 Rinku (Long-on) ] Takes the catch / effects stumping!
+    [F5 Pandya (Mid-off)] Takes the catch / effects stumping!
+    [F7 Axar (Long-off) ] Takes the catch / effects stumping!
+  *** WICKET! Jasprit Bumrah OUT (bowled/caught off Jasprit Bumrah) ***
+  [SJF] Dinesh Karthik walks in (exp 10 balls)
+  Over 12.2 | Jasprit Bumrah       → Dinesh Karthik       | OUT | 156/5
+[CREASE] Shubman Gill entered crease (sem acquired)
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+  Over 12.3 | Jasprit Bumrah       → Dinesh Karthik       | SIX | 162/5
+  Over 12.4 | Jasprit Bumrah       → Axar Patel           |   1 | 163/5
+  Over 12.5 | Jasprit Bumrah       → Axar Patel           | DOT | 163/5
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 3 overs | 39 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 2 overs bowled so far
+  Over 13.0 | Mohammed Siraj       → Axar Patel           |   1 | 164/5
+  Over 13.1 | Mohammed Siraj       → Dinesh Karthik       |   1 | 165/5
+  Over 13.2 | Mohammed Siraj       → Dinesh Karthik       | DOT | 165/5
+  Over 13.3 | Mohammed Siraj       → Axar Patel           |   1 | 166/5
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+  Over 13.4 | Mohammed Siraj       → Axar Patel           | SIX | 172/5
+  Over 13.5 | Mohammed Siraj       → Axar Patel           | DOT | 172/5
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+[PRIORITY] High intensity! Death specialist Jasprit Bumrah given CPU priority
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 3 overs | 37 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Jasprit Bumrah | 3 overs bowled so far
+  Over 14.0 | Jasprit Bumrah       → Dinesh Karthik       | FOUR | 176/5
+  Over 14.1 | Jasprit Bumrah       → Axar Patel           |   3 | 179/5
+  Over 14.2 | Jasprit Bumrah       → Axar Patel           | DOT | 179/5
+  Over 14.2 | Jasprit Bumrah       → Dinesh Karthik       |  WD | 180/5
+  Over 14.3 | Jasprit Bumrah       → Dinesh Karthik       | DOT | 180/5
+  Over 14.4 | Jasprit Bumrah       → Axar Patel           |   1 | 181/5
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+  Over 14.5 | Jasprit Bumrah       → Axar Patel           | SIX | 187/5
+[PRIORITY] High intensity! Death specialist Arshdeep Singh given CPU priority
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 4 overs | 50 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 2 overs bowled so far
+  Over 15.0 | Arshdeep Singh       → Dinesh Karthik       | DOT | 187/5
+  Over 15.1 | Arshdeep Singh       → Axar Patel           |   3 | 190/5
+  Over 15.2 | Arshdeep Singh       → Axar Patel           | DOT | 190/5
+  Over 15.3 | Arshdeep Singh       → Axar Patel           |   2 | 192/5
+  Over 15.4 | Arshdeep Singh       → Axar Patel           | DOT | 192/5
+  Over 15.4 | Arshdeep Singh       → Dinesh Karthik       |  WD | 193/5
+  Over 15.5 | Arshdeep Singh       → Dinesh Karthik       | DOT | 193/5
+[PRIORITY] High intensity! Death specialist Arshdeep Singh given CPU priority
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 3 overs | 34 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 3 overs bowled so far
+  Over 16.0 | Arshdeep Singh       → Dinesh Karthik       |   1 | 194/5
+  Over 16.1 | Arshdeep Singh       → Dinesh Karthik       | DOT | 194/5
+  Over 16.2 | Arshdeep Singh       → Dinesh Karthik       |   2 | 196/5
+  Over 16.3 | Arshdeep Singh       → Axar Patel           |   1 | 197/5
+  Over 16.4 | Arshdeep Singh       → Axar Patel           | DOT | 197/5
+  Over 16.5 | Arshdeep Singh       → Axar Patel           | DOT | 197/5
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 4 overs | 39 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 3 overs bowled so far
+  Over 17.0 | Mohammed Siraj       → Dinesh Karthik       |   2 | 199/5
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+  Over 17.1 | Mohammed Siraj       → Dinesh Karthik       | FOUR | 203/5
+  Over 17.2 | Mohammed Siraj       → Axar Patel           |   1 | 204/5
+    [F8 Siraj (Fine-leg)] Direct hit! Run out attempt!
+    [F2 Kohli (Gully)   ] Direct hit! Run out attempt!
+    [F9 Bumrah (3rd-man)] Direct hit! Run out attempt!
+    [F3 Surya (Point)   ] Direct hit! Run out attempt!
+    [F1 Gill (Slip)     ] Direct hit! Run out attempt!
+    [F7 Axar (Long-off) ] Direct hit! Run out attempt!
+    [F6 Rinku (Long-on) ] Direct hit! Run out attempt!
+    [F0 DK (WK)         ] Direct hit! Run out attempt!
+    [F5 Pandya (Mid-off)] Direct hit! Run out attempt!
+    [F4 Rohit (Cover)   ] Direct hit! Run out attempt!
+  Over 17.3 | Mohammed Siraj       → Axar Patel           |  RO | 204/5
+  Over 17.4 | Mohammed Siraj       → Axar Patel           | DOT | 204/5
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+  Over 17.5 | Mohammed Siraj       → Axar Patel           | SIX | 210/5
+  Over 17.5 | Mohammed Siraj       → Dinesh Karthik       |  WD | 211/5
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 4 overs | 50 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Hardik Pandya | 2 overs bowled so far
+  Over 18.0 | Hardik Pandya        → Dinesh Karthik       |   1 | 212/5
+  Over 18.1 | Hardik Pandya        → Dinesh Karthik       | DOT | 212/5
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F1 Gill (Slip)     ] Dives at the rope — boundary!
+    [F8 Siraj (Fine-leg)] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+  Over 18.2 | Hardik Pandya        → Dinesh Karthik       | FOUR | 216/5
+    [F0 DK (WK)         ] Dives at the rope — boundary!
+    [F7 Axar (Long-off) ] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F6 Rinku (Long-on) ] Dives at the rope — boundary!
+    [F3 Surya (Point)   ] Dives at the rope — boundary!
+    [F4 Rohit (Cover)   ] Dives at the rope — boundary!
+    [F9 Bumrah (3rd-man)] Dives at the rope — boundary!
+    [F2 Kohli (Gully)   ] Dives at the rope — boundary!
+  Over 18.3 | Hardik Pandya        → Dinesh Karthik       | FOUR | 220/5
+  Over 18.4 | Hardik Pandya        → Axar Patel           |   1 | 221/5
+  Over 18.4 | Hardik Pandya        → Dinesh Karthik       |  WD | 222/5
+  Over 18.5 | Hardik Pandya        → Axar Patel           |   1 | 223/5
+
+[CONTEXT SWITCH] Saving  : Hardik Pandya | 3 overs | 31 runs | 3 wkts
+[CONTEXT SWITCH] Loading : Axar Patel | 2 overs bowled so far
+  Over 19.0 | Axar Patel           → Axar Patel           |   1 | 224/5
+  Over 19.1 | Axar Patel           → Axar Patel           | DOT | 224/5
+  Over 19.2 | Axar Patel           → Dinesh Karthik       |   3 | 227/5
+  Over 19.3 | Axar Patel           → Dinesh Karthik       | DOT | 227/5
+  Over 19.4 | Axar Patel           → Dinesh Karthik       | DOT | 227/5
+    [F2 Kohli (Gully)   ] Ball sails over the rope — SIX!
+    [F0 DK (WK)         ] Ball sails over the rope — SIX!
+    [F1 Gill (Slip)     ] Ball sails over the rope — SIX!
+    [F9 Bumrah (3rd-man)] Ball sails over the rope — SIX!
+    [F8 Siraj (Fine-leg)] Ball sails over the rope — SIX!
+    [F4 Rohit (Cover)   ] Ball sails over the rope — SIX!
+    [F7 Axar (Long-off) ] Ball sails over the rope — SIX!
+    [F5 Pandya (Mid-off)] Ball sails over the rope — SIX!
+    [F6 Rinku (Long-on) ] Ball sails over the rope — SIX!
+    [F3 Surya (Point)   ] Ball sails over the rope — SIX!
+  Over 19.5 | Axar Patel           → Dinesh Karthik       | SIX | 233/5
+  Over 19.5 | Axar Patel           → Axar Patel           |  WD | 234/5
+    [F5 Pandya (Mid-off)] Dives at the rope — boundary!
+
+=== 20 OVERS COMPLETED ===
+  Over 20.0 | Axar Patel           → Dinesh Karthik       | FOUR | 238/5
+
+╔══════════════════════════════════════════════════════╗
+║     T20 WORLD CUP 2026 — INNINGS 1 SCORECARD        ║
+╚══════════════════════════════════════════════════════╝
+
+ BATTING
+ Batsman                 Runs Balls       SR
+ ──────────────────────────────────────────────────
+ Rohit Sharma              84    30    280.0  out
+ Virat Kohli                5     7     71.4  out
+ Arshdeep Singh            25    15    166.7  out
+ Jasprit Bumrah            24     8    300.0  out
+ Kuldeep Yadav             16    13    123.1  out
+ Axar Patel                42    23    182.6  dnb
+ Dinesh Karthik            42    24    175.0  dnb
+
+ TOTAL: 238/5  (Overs 20.0)
+
+ BOWLING
+ Bowler                  Ovr  Runs  Wkts    Econ
+ ──────────────────────────────────────────────────
+ Jasprit Bumrah            4    50     1   12.50 ★
+ Mohammed Siraj            4    50     0   12.50
+ Hardik Pandya             3    31     3   10.33
+ Axar Patel                3    42     0   14.00
+ Kuldeep Yadav             2    26     0   13.00
+ Arshdeep Singh            4    39     1    9.75 ★
+ (★ = Death Over Specialist — Priority Scheduled)
+
+╔══════════════════════════════════════════════════════╗
+║  INNINGS 1 — SCHEDULING ANALYSIS (All 3 Algorithms) ║
+╚══════════════════════════════════════════════════════╝
+
+ A) ROUND-ROBIN (Bowler Over Rotation)
+    Quantum = 6 balls. After each over, context switch.
+    Max overs per bowler = 4 (T20 rule enforced).
+
+ B) SJF (Incoming Batsman Selection on Wicket)
+    Batsman                 Exp.Balls    SJF-Wait   FCFS-Wait
+    ─────────────────────────────────────────────────
+    Jasprit Bumrah                 3           1          52
+    Kuldeep Yadav                  5           2          60
+    Axar Patel                     7           2          73
+    Dinesh Karthik                10           4          96
+    Rinku Singh                   14           5         120
+    Hardik Pandya                 18           7         134
+
+    SJF promotes tail-enders (shorter burst) ahead of
+    middle-order → lower average wait for middle-order.
+
+ C) PRIORITY (Death Over Specialist)
+    High Intensity triggered at over >= 14
+    Death specialists used: Jasprit Bumrah  Arshdeep Singh  
+    Match_Intensity was HIGH (death specialists activated) during this simulation.
+
+ Match Summary
+    Total Balls : 120
+    Total Runs  : 238
+    Wickets     : 5
+    Overs       : 20.0
+
+
+╔══════════════════════════════════════════════════════════╗
+║              INNINGS 2 BEGINS                           ║
+╚══════════════════════════════════════════════════════════╝
+
+=== INNINGS 2 BEGINS ===
+  Striker     : David Warner
+  Non-Striker : Travis Head
+  Bowler (RR) : Jasprit Bumrah
+
+[CREASE] David Warner entered crease (sem acquired)
+  Over  0.1 | Jasprit Bumrah       → Travis Head          |   1 | 1/0
+[CREASE] Travis Head entered crease (sem acquired)
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+[MAIN] 27 threads spawned (6 bowlers + 11 batsmen + 10 fielders)
+
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+  Over  0.2 | Jasprit Bumrah       → Travis Head          | FOUR | 5/0
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+  *** WICKET! Travis Head OUT (bowled/caught off Jasprit Bumrah) ***
+[SJF] Promoted Josh Hazlewood (exp 2 balls) ahead of batting order
+  [SJF] Josh Hazlewood walks in (exp 2 balls)
+  Over  0.3 | Jasprit Bumrah       → Josh Hazlewood       | OUT | 5/1
+[CREASE] Josh Hazlewood entered crease (sem acquired)
+[CREASE] Steven Smith entered crease (sem acquired)
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+  Over  0.4 | Jasprit Bumrah       → Josh Hazlewood       | FOUR | 9/1
+  Over  0.5 | Jasprit Bumrah       → David Warner         |   1 | 10/1
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 1 overs | 10 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 0 overs bowled so far
+  Over  1.0 | Arshdeep Singh       → Josh Hazlewood       | DOT | 10/1
+  Over  1.1 | Arshdeep Singh       → David Warner         |   3 | 13/1
+  Over  1.2 | Arshdeep Singh       → David Warner         | FOUR | 17/1
+  Over  1.3 | Arshdeep Singh       → David Warner         | DOT | 17/1
+  Over  1.4 | Arshdeep Singh       → David Warner         | DOT | 17/1
+    [F4 Warner (Cover)  ] Ball sails over the rope — SIX!
+    [F7 Cummins (Long-off)] Ball sails over the rope — SIX!
+    [F9 Zampa (3rd-man) ] Ball sails over the rope — SIX!
+    [F3 Maxwell (Point) ] Ball sails over the rope — SIX!
+    [F0 Wade (WK)       ] Ball sails over the rope — SIX!
+    [F5 Marsh (Mid-off) ] Ball sails over the rope — SIX!
+    [F2 Smith (Gully)   ] Ball sails over the rope — SIX!
+    [F8 Starc (Fine-leg)] Ball sails over the rope — SIX!
+    [F6 T.David (Long-on)] Ball sails over the rope — SIX!
+    [F1 Head (Slip)     ] Ball sails over the rope — SIX!
+  Over  1.5 | Arshdeep Singh       → David Warner         | SIX | 23/1
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 1 overs | 17 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Hardik Pandya | 0 overs bowled so far
+  Over  2.0 | Hardik Pandya        → Josh Hazlewood       | FOUR | 27/1
+  Over  2.1 | Hardik Pandya        → Josh Hazlewood       | DOT | 27/1
+  Over  2.2 | Hardik Pandya        → Josh Hazlewood       | DOT | 27/1
+  Over  2.3 | Hardik Pandya        → David Warner         |   1 | 28/1
+  Over  2.4 | Hardik Pandya        → David Warner         | DOT | 28/1
+  Over  2.5 | Hardik Pandya        → Josh Hazlewood       |   1 | 29/1
+
+[CONTEXT SWITCH] Saving  : Hardik Pandya | 1 overs | 2 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Axar Patel | 0 overs bowled so far
+  Over  3.0 | Axar Patel           → David Warner         | DOT | 29/1
+  Over  3.1 | Axar Patel           → David Warner         | DOT | 29/1
+  Over  3.2 | Axar Patel           → David Warner         | FOUR | 33/1
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+  Over  3.3 | Axar Patel           → David Warner         | FOUR | 37/1
+  Over  3.4 | Axar Patel           → David Warner         | DOT | 37/1
+    [F6 T.David (Long-on)] Direct hit! Run out attempt!
+
+[RAG] Deadlock! David Warner holds End-2 wants End-1
+[RAG]           Travis Head holds End-1 wants End-2
+[RAG] Cycle confirmed → Umpire kills David Warner (RUN OUT)
+[SJF] Promoted Adam Zampa (exp 3 balls) ahead of batting order
+[CREASE] Glenn Maxwell entered crease (sem acquired)
+[CREASE] Tim David entered crease (sem acquired)
+  Over  3.5 | Axar Patel           → Josh Hazlewood       |   1 | 38/2
+
+[CONTEXT SWITCH] Saving  : Axar Patel | 1 overs | 9 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Kuldeep Yadav | 0 overs bowled so far
+  Over  4.0 | Kuldeep Yadav        → Adam Zampa           | DOT | 38/2
+  Over  4.1 | Kuldeep Yadav        → Adam Zampa           | DOT | 38/2
+  Over  4.2 | Kuldeep Yadav        → Adam Zampa           |   2 | 40/2
+    [F3 Maxwell (Point) ] Takes the catch / effects stumping!
+    [F0 Wade (WK)       ] Takes the catch / effects stumping!
+    [F6 T.David (Long-on)] Takes the catch / effects stumping!
+    [F8 Starc (Fine-leg)] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+    [F5 Marsh (Mid-off) ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+  *** WICKET! Adam Zampa OUT (bowled/caught off Kuldeep Yadav) ***
+[SJF] Promoted Mitchell Starc (exp 5 balls) ahead of batting order
+  [SJF] Mitchell Starc walks in (exp 5 balls)
+  Over  4.3 | Kuldeep Yadav        → Mitchell Starc       | OUT | 40/3
+[CREASE] Matthew Wade entered crease (sem acquired)
+[CREASE] Pat Cummins entered crease (sem acquired)
+  Over  4.4 | Kuldeep Yadav        → Josh Hazlewood       |   1 | 41/3
+  Over  4.5 | Kuldeep Yadav        → Mitchell Starc       |   1 | 42/3
+
+[CONTEXT SWITCH] Saving  : Kuldeep Yadav | 1 overs | 8 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 0 overs bowled so far
+  Over  5.0 | Mohammed Siraj       → Josh Hazlewood       | FOUR | 46/3
+    [F4 Warner (Cover)  ] Ball sails over the rope — SIX!
+  Over  5.1 | Mohammed Siraj       → Josh Hazlewood       | SIX | 52/3
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+  Over  5.2 | Mohammed Siraj       → Josh Hazlewood       | FOUR | 56/3
+  Over  5.3 | Mohammed Siraj       → Josh Hazlewood       | DOT | 56/3
+    [F3 Maxwell (Point) ] Takes the catch / effects stumping!
+  *** WICKET! Josh Hazlewood OUT (bowled/caught off Mohammed Siraj) ***
+[SJF] Promoted Pat Cummins (exp 7 balls) ahead of batting order
+  [SJF] Pat Cummins walks in (exp 7 balls)
+  Over  5.4 | Mohammed Siraj       → Pat Cummins          | OUT | 56/4
+[CREASE] Glenn Maxwell entered crease (sem acquired)
+[CREASE] Steven Smith entered crease (sem acquired)
+  Over  5.5 | Mohammed Siraj       → Pat Cummins          | DOT | 56/4
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 1 overs | 10 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Jasprit Bumrah | 1 overs bowled so far
+  Over  6.0 | Jasprit Bumrah       → Mitchell Starc       | DOT | 56/4
+  Over  6.1 | Jasprit Bumrah       → Mitchell Starc       |   2 | 58/4
+  Over  6.2 | Jasprit Bumrah       → Pat Cummins          |   1 | 59/4
+    [F0 Wade (WK)       ] Takes the catch / effects stumping!
+  *** WICKET! Pat Cummins OUT (bowled/caught off Jasprit Bumrah) ***
+  [SJF] Matthew Wade walks in (exp 10 balls)
+  Over  6.3 | Jasprit Bumrah       → Matthew Wade         | OUT | 59/5
+[CREASE] Mitchell Marsh entered crease (sem acquired)
+  Over  6.4 | Jasprit Bumrah       → Mitchell Starc       |   1 | 60/5
+  Over  6.5 | Jasprit Bumrah       → Mitchell Starc       | DOT | 60/5
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 2 overs | 14 runs | 2 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 1 overs bowled so far
+  Over  7.0 | Arshdeep Singh       → Matthew Wade         | DOT | 60/5
+  Over  7.1 | Arshdeep Singh       → Matthew Wade         | DOT | 60/5
+  Over  7.2 | Arshdeep Singh       → Matthew Wade         | DOT | 60/5
+  Over  7.3 | Arshdeep Singh       → Matthew Wade         | DOT | 60/5
+  Over  7.4 | Arshdeep Singh       → Matthew Wade         |   2 | 62/5
+  Over  7.5 | Arshdeep Singh       → Matthew Wade         | DOT | 62/5
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F8 Starc (Fine-leg)] Takes the catch / effects stumping!
+    [F0 Wade (WK)       ] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+    [F3 Maxwell (Point) ] Takes the catch / effects stumping!
+    [F6 T.David (Long-on)] Takes the catch / effects stumping!
+  *** WICKET! Matthew Wade OUT (bowled/caught off Arshdeep Singh) ***
+  [SJF] Tim David walks in (exp 15 balls)
+
+[CONTEXT SWITCH] Saving  : Arshdeep Singh | 2 overs | 19 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Hardik Pandya | 1 overs bowled so far
+  Over  8.0 | Hardik Pandya        → Mitchell Starc       | OUT | 62/6
+  Over  8.1 | Hardik Pandya        → Mitchell Starc       | SIX | 68/6
+  Over  8.2 | Hardik Pandya        → Tim David            |   1 | 69/6
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F0 Wade (WK)       ] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+  Over  8.3 | Hardik Pandya        → Tim David            | FOUR | 73/6
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F8 Starc (Fine-leg)] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+    [F0 Wade (WK)       ] Takes the catch / effects stumping!
+    [F5 Marsh (Mid-off) ] Takes the catch / effects stumping!
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+    [F3 Maxwell (Point) ] Takes the catch / effects stumping!
+    [F6 T.David (Long-on)] Takes the catch / effects stumping!
+  *** WICKET! Tim David OUT (bowled/caught off Hardik Pandya) ***
+  [SJF] Glenn Maxwell walks in (exp 20 balls)
+  Over  8.4 | Hardik Pandya        → Glenn Maxwell        | OUT | 73/7
+    [F6 T.David (Long-on)] Direct hit! Run out attempt!
+    [F1 Head (Slip)     ] Direct hit! Run out attempt!
+    [F8 Starc (Fine-leg)] Direct hit! Run out attempt!
+    [F7 Cummins (Long-off)] Direct hit! Run out attempt!
+    [F4 Warner (Cover)  ] Direct hit! Run out attempt!
+    [F8 Starc (Fine-leg)] Direct hit! Run out attempt!
+    [F2 Smith (Gully)   ] Direct hit! Run out attempt!
+    [F9 Zampa (3rd-man) ] Direct hit! Run out attempt!
+    [F5 Marsh (Mid-off) ] Direct hit! Run out attempt!
+    [F3 Maxwell (Point) ] Direct hit! Run out attempt!
+  Over  8.5 | Hardik Pandya        → Glenn Maxwell        |  RO | 73/7
+
+[CONTEXT SWITCH] Saving  : Hardik Pandya | 2 overs | 13 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Axar Patel | 1 overs bowled so far
+  Over  9.0 | Axar Patel           → Mitchell Starc       | DOT | 73/7
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+  Over  9.1 | Axar Patel           → Mitchell Starc       | FOUR | 77/7
+  Over  9.2 | Axar Patel           → Mitchell Starc       | DOT | 77/7
+  Over  9.3 | Axar Patel           → Mitchell Starc       | DOT | 77/7
+  Over  9.4 | Axar Patel           → Mitchell Starc       |   2 | 79/7
+  Over  9.5 | Axar Patel           → Mitchell Starc       |   2 | 81/7
+
+[CONTEXT SWITCH] Saving  : Axar Patel | 2 overs | 17 runs | 0 wkts
+[CONTEXT SWITCH] Loading : Kuldeep Yadav | 1 overs bowled so far
+  Over 10.0 | Kuldeep Yadav        → Glenn Maxwell        | DOT | 81/7
+    [F7 Cummins (Long-off)] Ball sails over the rope — SIX!
+    [F6 T.David (Long-on)] Ball sails over the rope — SIX!
+    [F3 Maxwell (Point) ] Ball sails over the rope — SIX!
+  Over 10.1 | Kuldeep Yadav        → Glenn Maxwell        | SIX | 87/7
+  Over 10.1 | Kuldeep Yadav        → Mitchell Starc       |  WD | 88/7
+  Over 10.1 | Kuldeep Yadav        → Glenn Maxwell        |  WD | 89/7
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+    [F6 T.David (Long-on)] Takes the catch / effects stumping!
+    [F8 Starc (Fine-leg)] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F5 Marsh (Mid-off) ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+  *** WICKET! Glenn Maxwell OUT (bowled/caught off Kuldeep Yadav) ***
+  [SJF] Steven Smith walks in (exp 22 balls)
+  Over 10.2 | Kuldeep Yadav        → Steven Smith         | OUT | 89/8
+  Over 10.3 | Kuldeep Yadav        → Mitchell Starc       |   1 | 90/8
+  Over 10.4 | Kuldeep Yadav        → Mitchell Starc       |   2 | 92/8
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+  Over 10.5 | Kuldeep Yadav        → Mitchell Starc       | FOUR | 96/8
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+  *** WICKET! Mitchell Starc OUT (bowled/caught off Kuldeep Yadav) ***
+  [SJF] Mitchell Marsh walks in (exp 28 balls)
+
+[CONTEXT SWITCH] Saving  : Kuldeep Yadav | 2 overs | 23 runs | 3 wkts
+[CONTEXT SWITCH] Loading : Mohammed Siraj | 1 overs bowled so far
+  Over 11.0 | Mohammed Siraj       → Steven Smith         | OUT | 96/9
+  Over 11.1 | Mohammed Siraj       → Mitchell Marsh       |   1 | 97/9
+  Over 11.2 | Mohammed Siraj       → Mitchell Marsh       | DOT | 97/9
+    [F8 Starc (Fine-leg)] Ball sails over the rope — SIX!
+    [F3 Maxwell (Point) ] Ball sails over the rope — SIX!
+    [F5 Marsh (Mid-off) ] Ball sails over the rope — SIX!
+    [F6 T.David (Long-on)] Ball sails over the rope — SIX!
+    [F4 Warner (Cover)  ] Ball sails over the rope — SIX!
+    [F0 Wade (WK)       ] Ball sails over the rope — SIX!
+    [F7 Cummins (Long-off)] Ball sails over the rope — SIX!
+    [F2 Smith (Gully)   ] Ball sails over the rope — SIX!
+    [F1 Head (Slip)     ] Ball sails over the rope — SIX!
+    [F9 Zampa (3rd-man) ] Ball sails over the rope — SIX!
+  Over 11.3 | Mohammed Siraj       → Mitchell Marsh       | SIX | 103/9
+  Over 11.4 | Mohammed Siraj       → Mitchell Marsh       |   2 | 105/9
+  Over 11.5 | Mohammed Siraj       → Steven Smith         |   1 | 106/9
+    [F4 Warner (Cover)  ] Ball sails over the rope — SIX!
+    [F2 Smith (Gully)   ] Ball sails over the rope — SIX!
+    [F3 Maxwell (Point) ] Ball sails over the rope — SIX!
+    [F0 Wade (WK)       ] Ball sails over the rope — SIX!
+    [F4 Warner (Cover)  ] Ball sails over the rope — SIX!
+    [F9 Zampa (3rd-man) ] Ball sails over the rope — SIX!
+    [F1 Head (Slip)     ] Ball sails over the rope — SIX!
+    [F8 Starc (Fine-leg)] Ball sails over the rope — SIX!
+    [F6 T.David (Long-on)] Ball sails over the rope — SIX!
+    [F5 Marsh (Mid-off) ] Ball sails over the rope — SIX!
+    [F1 Head (Slip)     ] Ball sails over the rope — SIX!
+    [F8 Starc (Fine-leg)] Ball sails over the rope — SIX!
+    [F7 Cummins (Long-off)] Ball sails over the rope — SIX!
+    [F2 Smith (Gully)   ] Ball sails over the rope — SIX!
+    [F3 Maxwell (Point) ] Ball sails over the rope — SIX!
+    [F0 Wade (WK)       ] Ball sails over the rope — SIX!
+    [F7 Cummins (Long-off)] Ball sails over the rope — SIX!
+    [F9 Zampa (3rd-man) ] Ball sails over the rope — SIX!
+
+[CONTEXT SWITCH] Saving  : Mohammed Siraj | 2 overs | 26 runs | 1 wkts
+[CONTEXT SWITCH] Loading : Jasprit Bumrah | 2 overs bowled so far
+  Over 12.0 | Jasprit Bumrah       → Mitchell Marsh       | SIX | 112/9
+  Over 12.1 | Jasprit Bumrah       → Steven Smith         |   1 | 113/9
+  Over 12.2 | Jasprit Bumrah       → Steven Smith         | DOT | 113/9
+  Over 12.2 | Jasprit Bumrah       → Mitchell Marsh       |  NB | 114/9
+  Over 12.3 | Jasprit Bumrah       → Mitchell Marsh       | DOT | 114/9
+  Over 12.4 | Jasprit Bumrah       → Mitchell Marsh       | DOT | 114/9
+    [F4 Warner (Cover)  ] Dives at the rope — boundary!
+    [F5 Marsh (Mid-off) ] Dives at the rope — boundary!
+    [F7 Cummins (Long-off)] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F2 Smith (Gully)   ] Dives at the rope — boundary!
+    [F9 Zampa (3rd-man) ] Dives at the rope — boundary!
+    [F6 T.David (Long-on)] Dives at the rope — boundary!
+    [F1 Head (Slip)     ] Dives at the rope — boundary!
+    [F8 Starc (Fine-leg)] Dives at the rope — boundary!
+    [F3 Maxwell (Point) ] Dives at the rope — boundary!
+  Over 12.5 | Jasprit Bumrah       → Mitchell Marsh       | FOUR | 118/9
+
+[CONTEXT SWITCH] Saving  : Jasprit Bumrah | 3 overs | 22 runs | 2 wkts
+[CONTEXT SWITCH] Loading : Arshdeep Singh | 2 overs bowled so far
+  Over 13.0 | Arshdeep Singh       → Steven Smith         |   2 | 120/9
+  Over 13.1 | Arshdeep Singh       → Steven Smith         | DOT | 120/9
+  Over 13.2 | Arshdeep Singh       → Steven Smith         | DOT | 120/9
+  Over 13.3 | Arshdeep Singh       → Steven Smith         |   2 | 122/9
+    [F5 Marsh (Mid-off) ] Takes the catch / effects stumping!
+    [F2 Smith (Gully)   ] Takes the catch / effects stumping!
+    [F6 T.David (Long-on)] Takes the catch / effects stumping!
+    [F8 Starc (Fine-leg)] Takes the catch / effects stumping!
+    [F7 Cummins (Long-off)] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+    [F1 Head (Slip)     ] Takes the catch / effects stumping!
+    [F0 Wade (WK)       ] Takes the catch / effects stumping!
+    [F9 Zampa (3rd-man) ] Takes the catch / effects stumping!
+    [F4 Warner (Cover)  ] Takes the catch / effects stumping!
+  *** WICKET! Steven Smith OUT (bowled/caught off Arshdeep Singh) ***
+  Over 13.4 | Arshdeep Singh       → Steven Smith         | OUT | 122/10
+
+╔══════════════════════════════════════════════════════╗
+║     T20 WORLD CUP 2026 — INNINGS 2 SCORECARD        ║
+╚══════════════════════════════════════════════════════╝
+
+ BATTING
+ Batsman                 Runs Balls       SR
+ ──────────────────────────────────────────────────
+ David Warner              24    13    184.6  out
+ Travis Head                4     2    200.0  out
+ Josh Hazlewood            20    13    153.8  out
+ Adam Zampa                 3     4     75.0  out
+ Mitchell Starc            30    17    176.5  out
+ Pat Cummins                0     3      0.0  out
+ Matthew Wade               3     7     42.9  out
+ Tim David                  4     2    200.0  out
+ Glenn Maxwell              7     4    175.0  out
+ Steven Smith              11     8    137.5  out
+ Mitchell Marsh            16     9    177.8  dnb
+
+ TOTAL: 122/10  (Overs 13.4)
+
+ BOWLING
+ Bowler                  Ovr  Runs  Wkts    Econ
+ ──────────────────────────────────────────────────
+ Jasprit Bumrah            3    22     2    7.33 ★
+ Arshdeep Singh            2    21     2   10.50 ★
+ Hardik Pandya             2    13     1    6.50
+ Axar Patel                2    17     0    8.50
+ Kuldeep Yadav             2    23     3   11.50
+ Mohammed Siraj            2    26     1   13.00
+ (★ = Death Over Specialist — Priority Scheduled)
+
+╔══════════════════════════════════════════════════════╗
+║  INNINGS 2 — SCHEDULING ANALYSIS (All 3 Algorithms) ║
+╚══════════════════════════════════════════════════════╝
+
+ A) ROUND-ROBIN (Bowler Over Rotation)
+    Quantum = 6 balls. After each over, context switch.
+    Max overs per bowler = 4 (T20 rule enforced).
+
+ B) SJF (Incoming Batsman Selection on Wicket)
+    Batsman                 Exp.Balls    SJF-Wait   FCFS-Wait
+    ─────────────────────────────────────────────────
+    Adam Zampa                     3           1          28
+    Mitchell Starc                 5           2          32
+    Pat Cummins                    7           2          49
+    Matthew Wade                  10           4          52
+    Tim David                     15           6          59
+    Glenn Maxwell                 20           8          61
+
+    SJF promotes tail-enders (shorter burst) ahead of
+    middle-order → lower average wait for middle-order.
+
+ C) PRIORITY (Death Over Specialist)
+    High Intensity triggered at over >= 14
+    Death specialists used: Jasprit Bumrah  Arshdeep Singh  
+    Match_Intensity was NORMAL during this simulation.
+
+ Match Summary
+    Total Balls : 82
+    Total Runs  : 122
+    Wickets     : 10
+    Overs       : 13.4
+
+
+╔══════════════════════════════════════════════════════════╗
+║                    MATCH RESULT                         ║
+╚══════════════════════════════════════════════════════════╝
+  Innings 1 (India)     : 238/5
+  Innings 2 (Australia) : 122/10
+  Result: India won by 116 runs
+
+[CHARTS] Script written → python3 charts/make_charts.py
+=== SIMULATION COMPLETE ===
+  Log  : logs/match_log.txt
+  Data : logs/gantt_data.csv
+  Run  : python3 charts/make_charts.py
+
